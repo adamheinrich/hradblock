@@ -22,7 +22,7 @@ var expressions = [
 	/* Obecne */
 	"Zeman",
 	"Lán",
-	"Hrad(u|ě|em|ní)?\\W", /* Hrad ne, Hradec Králové ano */
+	"Hrad(u|ě|em|ní)?(\\W|$)", /* Hrad ne, Hradec Králové ano */
 	"Ovčáč",
 
 	/* Navsteva dalajlamy (rijen 2016) */
