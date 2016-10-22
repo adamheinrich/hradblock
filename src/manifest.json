@@ -1,0 +1,40 @@
+﻿{
+	"manifest_version": 2,
+	"name": "Wag the Dog",
+	"description": "Ignorujte agendu hradní partičky a věnujte se důležitým tématům.",
+	"version": "1.0",
+	"author": "Adam Heinrich",
+
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+	},
+
+	"browser_action": {
+		"default_icon": "icon48.png"
+	},
+
+	"content_scripts": [
+		{
+			"matches": [ "http://*.idnes.cz/*" ],
+			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "idnes.js" ]
+		},
+		{
+			"matches": [ "http://*.lidovky.cz/*" ],
+			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "lidovky.js" ]
+		},
+		{
+			"matches": [ "https://*.novinky.cz/*" ],
+			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "novinky.js" ]
+		},
+		{
+			"matches": [ "http://*.aktualne.cz/*" ],
+			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "aktualne.js" ]
+		},
+		{
+			"matches": [ "http://*.ihned.cz/*" ],
+			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "ihned.js" ]
+		}
+	]
+}

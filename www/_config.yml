@@ -1,0 +1,18 @@
+# Setup
+title:               Wag the Dog
+tagline:             Ignorujte agendu hradní partičky.
+url:                 https://vypisky.adamh.cz
+baseurl:             ""
+
+# Assets
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Adam Heinrich
+  url:               https://twitter.com/adamheinrich
+  email:             adam@adamh.cz
+
