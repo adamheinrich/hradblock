@@ -24,6 +24,7 @@ This will gzip and copy contents of the _site directory.
  * [Poole](http://getpoole.com/) - butler for Jekyll. Great thing to start with!
  * [Deploy script](http://www.savjee.be/2014/03/Jekyll-to-S3-deploy-script-with-gzip/)
    by Xavier Decuyper
+ * [Cookie Consent](https://github.com/insites/cookieconsent) by Silktide Ltd
 
 Thank you!
 
