@@ -8,3 +8,5 @@ numRemoved += wtdFilter(document.getElementsByClassName("article-comment"));
 if (isDebugMode) {
 	alert('IHNED.cz: Removed ' + numRemoved + ' articles.');
 }
+
+chrome.runtime.sendMessage({ type: "setBadgeCount", count: numRemoved });

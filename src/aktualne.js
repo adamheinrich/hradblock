@@ -20,3 +20,5 @@ numRemoved += wtdFilter($(".nejctenejsi li"));
 if (isDebugMode) {
 	alert('Aktualne.cz: Removed ' + numRemoved + ' articles.');
 }
+
+chrome.runtime.sendMessage({ type: "setBadgeCount", count: numRemoved });

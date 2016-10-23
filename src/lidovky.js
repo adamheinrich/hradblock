@@ -9,3 +9,5 @@ numRemoved += wtdFilter($(".arts-1 li"));
 if (isDebugMode) {
 	alert('Lidovky.cz: Removed ' + numRemoved + ' articles.');
 }
+
+chrome.runtime.sendMessage({ type: "setBadgeCount", count: numRemoved });

@@ -10,3 +10,5 @@ numRemoved += wtdFilter($("#hintBox p"));
 if (isDebugMode) {
 	alert('Novinky.cz: Removed ' + numRemoved + ' articles.');
 }
+
+chrome.runtime.sendMessage({ type: "setBadgeCount", count: numRemoved });

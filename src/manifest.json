@@ -15,6 +15,10 @@
 		"default_icon": "icon48.png"
 	},
 
+	"background": {
+		"scripts": [ "background.js" ]
+	},
+
 	"content_scripts": [
 		{
 			"matches": [ "http://*.idnes.cz/*" ],

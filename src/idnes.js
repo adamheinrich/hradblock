@@ -9,3 +9,5 @@ numRemoved += wtdFilter($(".video-box li"));
 if (isDebugMode) {
 	alert('iDNES.cz: Removed ' + numRemoved + ' articles.');
 }
+
+chrome.runtime.sendMessage({ type: "setBadgeCount", count: numRemoved });
