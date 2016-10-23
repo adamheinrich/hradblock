@@ -24,9 +24,11 @@ var expressions = [
 	"Lán",
 	"Hrad(u|ě|em|ní)?(\\W|$)", /* Hrad ne, Hradec Králové ano */
 	"Ovčáč",
+	"Mynář",
+	[ "kancelář", "prezident" ],
 
 	/* Navsteva dalajlamy (rijen 2016) */
-	"dalajlám",
+	"dalajl(á|a)m",
 	[ "Herman", "strýc" ],
 	[ "Jiří|vyznam", "Brady" ]
 ];
