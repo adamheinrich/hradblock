@@ -27,3 +27,13 @@ chrome.tabs.onActivated.addListener(function(tabInfo) {
 		}
 	});
 });
+
+chrome.tabs.onUpdated.addListener(function(tabInfo) {
+	chrome.tabs.get(tabInfo.tabId, function(tab) {
+		if (counts[tab.id] != null) {
+			setBadgeCount(counts[tab.id]);
+		} else {
+			setBadgeCount(0);
+		}
+	});
+});
