@@ -1,8 +1,8 @@
 ﻿{
 	"manifest_version": 2,
 	"name": "Wag the Dog",
-	"description": "Ignorujte agendu hradní partičky a věnujte se důležitým tématům.",
-	"version": "1.0.1",
+	"description": "Ignorujte mediální obsesi Zemanem a věnujte se důležitým tématům.",
+	"version": "1.0.2",
 	"author": "Adam Heinrich",
 
 	"icons": {
