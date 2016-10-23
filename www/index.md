@@ -4,19 +4,22 @@ title: Home
 ---
 
 Zatímco se český internet poslušně pohoršuje nad pravidelnými
-&bdquo;kauzami&ldquo; naservírovanými Milošem Zemanem, skutečně důležité
-problémy pozornosti spolehlivě unikají.
+&bdquo;kauzami&ldquo; naservírovanými Milošem Zemanem, [skutečně][1]
+[důležité][2] [problémy][3] pozornosti spolehlivě unikají.
 
-Rozšíření [Wag the Dog][1] odstraňuje hradní agendu z titulních stránek
+Rozšíření [Wag the Dog][4] odstraňuje hradní agendu z titulních stránek
 zpravodajských webů. Výsledná prázdnota je více než výmluvná:
 
-[![Ukázka](/public/lidovky.png)][1]
+[![Ukázka](/public/lidovky.png)][4]
 
-Rozšíření funguje v prohlížečí [Chrome][2] a na webech Aktuálně.cz, Hospodářské
+Rozšíření funguje v prohlížečí [Chrome][5] a na webech Aktuálně.cz, Hospodářské
 noviny, iDNES.cz, Lidovky.cz a Novinky.cz.
 
-Zdrojový kód je na [GitHubu][3].
+Zdrojový kód je na [GitHubu][6].
 
-[1]: https://chrome.google.com/webstore/detail/wag-the-dog/lfhgibdmbmnlmjfdoplhaoplnffchjgf
-[2]: https://www.google.com/chrome/browser/desktop/index.html
-[3]: https://github.com/adamheinrich/wag-the-dog
+[1]: https://www.novinky.cz/domaci/417964-verejna-sluzba-se-ma-zvyhodnit-navrh-ale-pripomina-drabkuv-paskvil.html
+[2]: http://denikreferendum.cz/clanek/23283-zakon-o-socialnim-bydleni-nutnost-na-kterou-nezbyva-mnoho-casu
+[3]: http://blisty.cz/art/83945.html
+[4]: https://chrome.google.com/webstore/detail/wag-the-dog/lfhgibdmbmnlmjfdoplhaoplnffchjgf
+[5]: https://www.google.com/chrome/browser/desktop/index.html
+[6]: https://github.com/adamheinrich/wag-the-dog
