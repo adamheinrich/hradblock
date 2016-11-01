@@ -11,6 +11,7 @@ numRemoved += wtdFilter(document.getElementsByClassName("hlavni-zprava-obrazem")
 numRemoved += wtdFilter(document.getElementsByClassName("boxik"));
 numRemoved += wtdFilter(document.getElementsByClassName("plonkovy-boxik"));
 numRemoved += wtdFilter(document.getElementsByClassName("plonkovy-autor-box"));
+numRemoved += wtdFilter(document.getElementsByClassName("autor-box"));
 numRemoved += wtdFilter(document.getElementsByClassName("blog"));
 
 numRemoved += wtdFilter(document.getElementsByClassName("prvni-polozka"));
