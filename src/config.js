@@ -30,7 +30,7 @@ var expressions = [
 	/* Navsteva dalajlamy (rijen 2016) */
 	"dalajl(á|a)m",
 	[ "Herman", "strýc" ],
-	[ "Jiří|vyznam", "Brady" ]
+	[ "Jiří|vyznam|řád|Forejt|88|Kraus|kauza|Herman|medail|ocen", "Brady" ]
 ];
 
 /* Pomocnik pro pridani noveho webu (detekuje vsechny clanky): */
