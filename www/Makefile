@@ -1,4 +1,4 @@
-BUCKET = s3://wagthedog.adamh.cz/
+BUCKET = s3://hradblock.adamh.cz/
 SITE_DIR = _site
 
 all: build clear upload

@@ -1,6 +1,6 @@
-# wagthedog.adamh.cz
+# hradblock.adamh.cz
 
-Source code for website [wagthedog.adamh.cz](https://wagthedog.adamh.cz). I've
+Source code for website [hradblock.adamh.cz](https://hradblock.adamh.cz). I've
 used some great open source projects which was the main reason to make its
 source public.
 

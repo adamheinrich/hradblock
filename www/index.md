@@ -7,7 +7,7 @@ Zatímco se český internet poslušně pohoršuje nad pravidelnými
 &bdquo;kauzami&ldquo; naservírovanými Milošem Zemanem, [skutečně][1]
 [důležité][2] [problémy][3] pozornosti spolehlivě unikají.
 
-Rozšíření [Wag the Dog][4] odstraňuje hradní agendu z titulních stránek
+Rozšíření [Hradblock][4] odstraňuje hradní agendu z titulních stránek
 zpravodajských webů. Výsledná prázdnota je více než výmluvná:
 
 [![Ukázka](/public/lidovky.png)][4]
@@ -22,4 +22,4 @@ Zdrojový kód je na [GitHubu][6].
 [3]: http://blisty.cz/art/83945.html
 [4]: https://chrome.google.com/webstore/detail/wag-the-dog/lfhgibdmbmnlmjfdoplhaoplnffchjgf
 [5]: https://www.google.com/chrome/browser/desktop/index.html
-[6]: https://github.com/adamheinrich/wag-the-dog
+[6]: https://github.com/adamheinrich/hradblock
