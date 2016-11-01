@@ -32,19 +32,39 @@ function testContent(content) {
 	return false;
 }
 
+var removedContents = [];
+
 function wtdFilter(elements) {
 	var numRemoved = 0;
 
 	if (elements.length > 0) {
 		var i;
 		for (i = 0; i < elements.length; i++) {
-			if (testContent(elements[i].innerText)) {
+			var content = elements[i].innerText;
+
+			/* Odstrani z textu jiz nalezene shody. Ochrana proti
+			   odstraneni parent, je-li hledany text v child: */
+			var j;
+			for (j = 0; j < removedContents.length; j++) {
+				var stillReplace = true;
+				while (stillReplace) {
+					tmp = content.replace(removedContents[j], "");
+					if (tmp == content) {
+						stillReplace = false;
+					}
+					content = tmp;
+				}
+			}
+
+			// Hledani shody a skryti clanku:
+			if (testContent(content)) {
 				if (isDebugMode) {
 					elements[i].style.border = '1px solid red';
 				} else {
 					elements[i].style.visibility = 'hidden';
 				}
 				numRemoved++;
+				removedContents.push(content);
 			}
 		}
 	}
