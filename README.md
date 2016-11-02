@@ -28,4 +28,4 @@ rozbalené rozšíření* (adresář `src` tohoto repoziráře).
 [2]: https://github.com/michalkasparek/WishYouWereHere
 [3]: https://commons.wikimedia.org/wiki/File:Milo%C5%A1_Zeman_2013.JPG
 [4]: https://github.com/adamheinrich/hradblock/raw/master/hradblock.crx
-[5]: https://chrome.google.com/webstore/detail/wag-the-dog/lfhgibdmbmnlmjfdoplhaoplnffchjgf
+[5]: https://chrome.google.com/webstore/detail/hradblock/lfhgibdmbmnlmjfdoplhaoplnffchjgf
