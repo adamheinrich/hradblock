@@ -9,6 +9,7 @@ numRemoved += wtdFilter($("#rubrika-nejctenejsi .art a"));
 numRemoved += wtdFilter($(".row .art"));
 numRemoved += wtdFilter($(".list-art .art"));
 numRemoved += wtdFilter(document.getElementsByClassName("mainart"));
+numRemoved += wtdFilter($("#ig-top-inklud"));
 
 if (isDebugMode) {
 	alert('Lidovky.cz: Removed ' + numRemoved + ' articles.');
