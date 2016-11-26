@@ -7,6 +7,10 @@ Zatímco se český internet poslušně pohoršuje nad pravidelnými
 &bdquo;kauzami&ldquo; naservírovanými Milošem Zemanem, [skutečně][1]
 [důležité][2] [problémy][3] pozornosti spolehlivě unikají.
 
+<div class="cta-btn">
+	<a href="https://chrome.google.com/webstore/detail/hradblock/lfhgibdmbmnlmjfdoplhaoplnffchjgf">Nainstalujte si Hradblock</a>
+</div>
+
 Rozšíření [Hradblock][4] odstraňuje hradní agendu z titulních stránek
 zpravodajských webů. Výsledná prázdnota je více než výmluvná:
 
