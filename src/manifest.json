@@ -25,15 +25,15 @@
 			"js": [ "default.js" ]
 		},
 		{
-			"matches": [ "http://*.idnes.cz/*" ],
+			"matches": [ "http://*.idnes.cz/*", "https://*.idnes.cz/*" ],
 			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "idnes.js" ]
 		},
 		{
-			"matches": [ "http://*.lidovky.cz/*" ],
+			"matches": [ "http://*.lidovky.cz/*", "https://*.lidovky.cz/*" ],
 			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "lidovky.js" ]
 		},
 		{
-			"matches": [ "https://*.novinky.cz/*" ],
+			"matches": [ "http://*.novinky.cz/*", "https://*.novinky.cz/*" ],
 			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "novinky.js" ]
 		},
 		{
@@ -41,7 +41,7 @@
 			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "aktualne.js" ]
 		},
 		{
-			"matches": [ "http://*.ihned.cz/*" ],
+			"matches": [ "http://*.ihned.cz/*", "https://*.ihned.cz/*" ],
 			"js": [ "jquery-3.1.1.min.js", "config.js", "common.js", "ihned.js" ]
 		}
 	]
