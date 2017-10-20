@@ -8,7 +8,7 @@ Zatímco se český internet poslušně pohoršuje nad pravidelnými
 [důležité][2] [problémy][3] pozornosti spolehlivě unikají.
 
 <div class="cta-btn">
-	<a href="https://chrome.google.com/webstore/detail/hradblock/lfhgibdmbmnlmjfdoplhaoplnffchjgf">Nainstalujte si Hradblock</a>
+	<a href="https://chrome.google.com/webstore/detail/hradblock/bbjmpmpachnjgdpbhhgonhiohlhlkopi">Nainstalujte si Hradblock</a>
 </div>
 
 Rozšíření [Hradblock][4] odstraňuje hradní agendu z titulních stránek
@@ -24,6 +24,6 @@ Zdrojový kód je na [GitHubu][6].
 [1]: https://www.novinky.cz/domaci/417964-verejna-sluzba-se-ma-zvyhodnit-navrh-ale-pripomina-drabkuv-paskvil.html
 [2]: http://denikreferendum.cz/clanek/23283-zakon-o-socialnim-bydleni-nutnost-na-kterou-nezbyva-mnoho-casu
 [3]: http://blisty.cz/art/83945.html
-[4]: https://chrome.google.com/webstore/detail/hradblock/lfhgibdmbmnlmjfdoplhaoplnffchjgf
+[4]: https://chrome.google.com/webstore/detail/hradblock/bbjmpmpachnjgdpbhhgonhiohlhlkopi
 [5]: https://www.google.com/chrome/browser/desktop/index.html
 [6]: https://github.com/adamheinrich/hradblock

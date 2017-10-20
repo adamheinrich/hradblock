@@ -29,4 +29,4 @@ rozbalené rozšíření* (adresář `src` tohoto repoziráře).
 [3]: https://commons.wikimedia.org/wiki/File:Stopsign_sing.png
 [4]: https://en.wikipedia.org/wiki/User:Woodysee
 [5]: https://github.com/adamheinrich/hradblock/raw/master/hradblock.crx
-[6]: https://chrome.google.com/webstore/detail/hradblock/lfhgibdmbmnlmjfdoplhaoplnffchjgf
+[6]: https://chrome.google.com/webstore/detail/hradblock/bbjmpmpachnjgdpbhhgonhiohlhlkopi
