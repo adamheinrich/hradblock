@@ -16,7 +16,6 @@ and head to [localhost:4000](http://localhost:4000) to see the site in action.
 
  * [Jekyll](http://jekyllrb.com/) - the static site generator
  * [Poole](http://getpoole.com/) - butler for Jekyll. Great thing to start with!
- * [Cookie Consent](https://github.com/insites/cookieconsent) by Silktide Ltd
 
 Thank you!
 
