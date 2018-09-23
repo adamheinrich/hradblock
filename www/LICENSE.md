@@ -2,17 +2,12 @@
 
 This file contains license information for:
 
-- Deploy script
 - Poole
 - Cookie Consent
 
-## Deploy script
-
-The _deploy.sh script is based on article [Enable gzip for Jekyll blogs on Amazon S3](http://www.savjee.be/2014/03/Jekyll-to-S3-deploy-script-with-gzip/) published by [Xavier Decuyper](http://www.savjee.be).
-
 ## Poole
 
-SCSS files _sass/\_code.scss and _sass/\_synax.scss and the atom.xml file from the [Poole](http://getpoole.com) project by [Mark Otto](https://twitter.com/mdo) is licensed under the [MIT license](http://opensource.org/licenses/mit-license.html):
+SCSS files `_sass/_code.scss` and `_sass/_synax.scss` and the `atom.xml` file from the [Poole](http://getpoole.com) project by [Mark Otto](https://twitter.com/mdo) is licensed under the [MIT license](http://opensource.org/licenses/mit-license.html):
 
 ```
 Copyright (c) 2013 Mark Otto.
